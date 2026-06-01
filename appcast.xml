@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Say Scriber</title>
     <link>https://raw.githubusercontent.com/Cromie-Labs/sayscriber-releases/main/appcast.xml</link>
     <description>Sparkle update feed for Say Scriber.</description>
     <language>en</language>
-    <!-- Release <item> entries are appended here by `make release`. -->
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Sun, 31 May 2026 19:44:24 -0700</pubDate>
+      <sparkle:version>202606010242</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Cromie-Labs/sayscriber-releases/releases/download/v0.1.0/SayScriber.dmg" sparkle:edSignature="ilPsdV0Z+oyIWo4mprDU31W8kqM78Hptz2LpT/CxlBpwoOOucYVcARfocSZPA4NcZYBg/+qhyJourtSFI9rmAg==" length="10755834" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
