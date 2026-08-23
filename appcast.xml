@@ -6,6 +6,14 @@
     <description>Sparkle update feed for Say Scriber.</description>
     <language>en</language>
     <item>
+      <title>0.2.0</title>
+      <pubDate>Sun, 23 Aug 2026 09:45:50 -0700</pubDate>
+      <sparkle:version>202608231644</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Cromie-Labs/sayscriber-releases/releases/download/v0.2.0/SayScriber.dmg" sparkle:edSignature="QoOl1o0g7uJLgFpvbBWyL3fQkVxm5dab9Z+AB3pKdm9fAmDsecY380EAlaNpzXtaH+5D9EvCqBbY43o22nmtDw==" length="11081195" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.1.6</title>
       <pubDate>Sat, 22 Aug 2026 13:46:22 -0700</pubDate>
       <sparkle:version>202608222045</sparkle:version>
